@@ -1,0 +1,9 @@
+
+# Intellij
+.idea
+build
+out
+
+
+# Gradle
+.gradle
